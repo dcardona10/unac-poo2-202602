@@ -15,8 +15,5 @@ public class Venta {
         }
 
         System.out.println(total);
-        System.out.println("Correo enviado");
-        System.out.println("Factura generada");
-        System.out.println("Venta almacenada");
     }
 }
