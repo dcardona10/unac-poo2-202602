@@ -1,0 +1,3 @@
+Nombre|Edad
+Juan|24
+Andres|18
