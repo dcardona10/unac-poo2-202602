@@ -1,0 +1,2 @@
+Id|Descripcion|Precio
+cecae374-fddf-42f7-894a-84fc4225c9b8|Laptop|2000000.0
